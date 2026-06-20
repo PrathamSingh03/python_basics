@@ -662,8 +662,15 @@ After sort:    [92, 90, 85, 78, 70]
 # [3,2,1]
 
 
+# Q15
+# Hard
+# Predict:
 
+# lst = [1,2,3,2,1]
+# lst.remove(2)
+# lst.remove(1)
+# print(lst)
+# 💡 Show Hint
+# ✅ Show Solution
 
-
-
-
+# [3,2,1]
